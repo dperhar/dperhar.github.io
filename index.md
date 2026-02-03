@@ -2,6 +2,6 @@
 layout: home
 ---
 
-Writing about GTM experiments, vibe coding, and figuring out what actually works at 0→1.
+On my way to figure out what actually works at 0→1 for meaningful products.
 
-If you're a builder stuck at "now what" – reach out: **dperhar@icloud.com**
+If you're a builder stuck at "now what" – reach out, lets find out together: **dperhar@icloud.com**

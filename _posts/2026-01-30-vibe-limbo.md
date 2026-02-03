@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Vibe limbo. I tried to become a builder. After 4 products, I finally got it – I'm not one."
-date: 2026-01-30
+title: "Vibe limbo"
+date: 2026-02-03
 ---
 
 I love tech. Loved it since childhood – for the ability to make impossible possible.
@@ -26,17 +26,21 @@ For someone with my "fuck the system" streak, this was everything. No more beggi
 
 So I did.
 
+
 ---
+
 
 ## First product.
 
-It was a lab, to see what llms are really capable of. I decided to automate some of my work – auto follow-up sequences for outbound emails. Simple tech, real demand if marketed properly.
+It was a lab, to see what LLMs are really capable of. 
+I decided to automate some of my work – auto follow-up sequences for outbound emails. Simple tech, real demand if marketed properly.
 
 Built it. Enabled in my workspace. Bragged "I built a SaaS in 2 days" in my socials. Walked away.
 
 Told myself: too boring. I wanted to invent something that mattered.
 
----
+
+
 
 ## Second product.
 
@@ -50,14 +54,16 @@ But then I realized – if Durov woke up wrong, users could lose their accounts.
 Told myself: too risky, I can't sell a service possibly banning users accounts. 
 Stopped.
 
----
+
 
 ## Third product.
 
 The dream. Canvas-based environment for founders managing AI agents swarms. Build fast, find PMF, stay in flow. Pure focus. A tool for solo builders, who I respect and feel sympathy about. A weapon, making one ship into demand at superhuman speed.
 
 This one I couldn't build alone – it required some real tech heavy-lifting. 
-Found a cofounder. Built a deck. Quit a job to undergo a couple of accelerators. It turned out no one is getting funded now pre-sales, even with a PoC. I needed money to build a product, which meant proving demand, which meant building a product I was raising money for. :)
+Found a cofounder. Built a deck. Quit a job to undergo a couple of accelerators. 
+It turned out no one is getting funded now pre-sales, even with a PoC. 
+I needed money to build a product, which meant proving demand, which meant building a product I was raising money for. :)
 
 And as it was a category-creating software – I had hard time finding customers. 
 LinkedIn outreach felt gross. Didn't have a network. Kept waiting for someone to post asking for exactly what I was building.
@@ -65,7 +71,7 @@ LinkedIn outreach felt gross. Didn't have a network. Kept waiting for someone to
 Nobody did. 
 Paused it.
 
----
+
 
 ## Fourth attempt.
 
@@ -90,7 +96,7 @@ I never built it.
 Couldn't figure out how to validate a tool that validates demand. The paradox stopped me cold – and all the success cases I red – they were either relying on a kickstart network or on twitter algos. 
 Didn't figure out the hack, so I didn't start.
 
----
+
 
 Four products. 
 Different ideas, different excuses. 
@@ -113,9 +119,11 @@ Vibe coding gave me permission to try being a solo builder. My anarchist streak 
 But permission isn't the same as fit. I tried four times. I'm not a builder.
 
 [More than 35% of startups are solo-founded now](https://carta.com/data/founder-ownership/). Vibe coding made that possible. 
-But I wonder how many are like me – people who can build now, but probably shouldn't be building alone. Forcing a solo founder shape because the tools finally allow it, and because "fuck them, they don't get to make it proper".
+But I wonder how many are like me – people who can build now, but probably shouldn't be building alone. Forcing a solo founder shape because the tools finally allow it, and because "fuck them, they don't get it. They won't make it proper way".
 
 ---
+
+
 
 ## So here's where I am.
 
